@@ -1,5 +1,6 @@
 # ML_Prj
 Telecom Churn
+
 📘 Overview
 Customer churn is a major challenge in the telecommunications sector, where retaining an existing customer is significantly more cost‑effective than acquiring a new one. This project builds a predictive machine learning pipeline to identify customers at high risk of leaving, using a diverse dataset that includes:
 * Demographic information
